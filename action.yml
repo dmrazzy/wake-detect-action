@@ -1,5 +1,5 @@
 # action.yml
-name: 'Wake detect'
+name: 'Wake Detect'
 description: 'Runs Wake static analysis'
 branding:
   icon: 'crosshair'
