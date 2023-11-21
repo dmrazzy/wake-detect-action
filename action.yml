@@ -1,6 +1,9 @@
 # action.yml
 name: 'Wake detect'
 description: 'Runs Wake static analysis'
+branding:
+  icon: 'crosshair'
+  color: 'purple'
 inputs:
   working-directory:
     description: 'Working directory'
