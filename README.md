@@ -1,5 +1,8 @@
 # Wake Detect GitHub Action
 
+![white](https://github.com/Ackee-Blockchain/wake-detect-action/assets/56036748/ec488c85-2f7f-4433-ae58-3d50698a47de)
+
+
 This GitHub Action runs the Wake static analysis tool. It's configurable via several optional inputs and it outputs a SARIF file if specified.
 
 ## Usage
